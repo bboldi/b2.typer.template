@@ -43,7 +43,7 @@ I put some variables to the beginning of the main.js file, so you can fine-tune 
     let allowSkip = true;
     let maxVolume = 0.5;
 
-    ```
+```
 
 the content configuration can be modified in content.js , but here's an example of some things that you can use:
 
