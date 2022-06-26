@@ -2,6 +2,8 @@
 
 This is a starter template to help you make a home page that looks and feels like a Retro Terminal. It's pure javascript, html and css - nothing fancy, simple static stuff.
 
+Check out the DEMO [ **[HERE](https://bboldi.com)** ]
+
 The script was put together in a few hours, so don't expect perfection :)
 
 I put some variables to the beginning of the main.js file, so you can fine-tune it to your liking
