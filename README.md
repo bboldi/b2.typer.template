@@ -2,11 +2,7 @@
 
 This is a starter template to help you make a home page that looks and feels like a Retro Terminal. It's pure javascript, html and css - nothing fancy, simple static stuff.
 
-There are some special characters that will affect how the content is displayed - see the `content.js` file for more info.
-
-Feel free to modify or use this script as you feel, but please attribute the author.
-
-The script was put together in a few hours, so don't expect anything fancy :)
+The script was put together in a few hours, so don't expect perfection :)
 
 I put some variables to the beginning of the main.js file, so you can fine-tune it to your liking
 
@@ -44,8 +40,8 @@ I put some variables to the beginning of the main.js file, so you can fine-tune 
     let maxVolume = 0.5;
 
 ```
-
-the content configuration can be modified in content.js , but here's an example of some things that you can use:
+There are some special characters that will affect how the content is displayed - see the `content.js` file for more info.
+The content can be modified in content.js , but here's an example of some things that you can use:
 
 ```
 ^ - this character will make the cursor pause
@@ -57,3 +53,6 @@ you can add internal links usign this syntax [LINK TEXT=link_target]
 user can speed up the animation by clicking/tapping on the page, or pressing the space button
 
 that's all from the top of my head :) have fun!
+
+Feel free to modify or use this script as you feel, but please attribute the author.
+
